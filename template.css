@@ -1,0 +1,137 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    text-align: right;  
+    margin-top: 40px;
+    margin-left: 800px ; 
+  }
+  .logo{
+    display: flex;
+    flex-direction: row;
+    
+  }
+  .navbar{
+    display: flex;
+    justify-content: space-around;
+
+  }
+  .nav-button {
+    color: lightskyblue;
+    font-size: 30px;
+    text-align: end;
+    text-decoration: none!important;
+  }
+  .nav-button:hover {
+
+    border-bottom: 4px solid lightskyblue;
+
+    
+  }
+  #active {
+    border-bottom: 4px solid lightskyblue;
+  }
+
+  .logo{
+    width: 100px;
+    height: 100px;
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  .headline{
+    text-align: center;
+    color: turquoise;
+    padding-right: 500px;
+  }
+
+  * {background-color: black}
+
+
+  
+  .proj-name{
+    color: purple;
+    background-color: azure;
+    Width: 500px;
+    font-size: 30px;
+  }
+  .proj-description{
+    color: azure;
+    background-color: purple;
+    font-size: 20px;;
+    width: 500px;
+    height: 500px;
+  }
+ 
+
+  .proj-img{
+    width: 500px;
+    height: 500px;
+  }
+
+  .Instagram{
+    width: 50px;
+    height: 50px;
+    background-color: powderblue;
+    padding: 38px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+
+  }
+
+  .Linkedin{
+    width: 50px;
+    height: 50px;
+    background-color: powderblue;
+    padding: 38px;
+    margin-top: 50px;
+
+
+  }
+
+  .Gmail{
+    width: 50px;
+    height: 50px;
+    background-color: powderblue;
+    padding: 38px;
+    margin-top: 50px;
+  }
+
+  .Contact-Description{
+    color: green;
+    background-color: powderblue;
+    padding: 38px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 50%;
+
+  }
+
+  .Contact{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .worktitle{
+    Color: purple;
+    text-align: center;
+  }
+
+
+
+ .tables{
+  margin-left: 260px;
+ }
+
+ .tables2{
+  margin-left: 260px;
+ }
+
+ .td{
+  margin-right: 100px;
+  margin: 100px;
+ }
